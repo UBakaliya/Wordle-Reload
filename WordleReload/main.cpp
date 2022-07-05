@@ -3,13 +3,8 @@
     You have a set amount of time to guess a word.  At the conlusion of game play
     you will be provided stats on your overall game play.
 */
-#include <iostream> // For Input and Output
-#include <fstream>  // For file input and output
-#include <vector>   // Input file is stored in a vector
-#include <cassert>  // For the assert statement used to validate file open
-#include <cctype>   // Allows using the tolower() function
-#include <ctime>    // Allows to use srand()
 
+#include <bits/stdc++.h> // For every other librais
 using namespace std; // use it so we don't have to say std:: overtime
 
 //--------------------------------------------------------------------------------
